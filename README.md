@@ -1,3 +1,5 @@
 # news_topic_classifier
-The goal of this project is to predict which topic an article belongs to. We attain news article contents with News API, then apply unsupervised model to classify and assign them with topics. Then we train a model with the assigned label to make predictions on testing data.</br>
-News Source https://newsapi.org/
+The goal of this project is to predict which topic an article belongs to. We used raw text data from this source http://mlg.ucd.ie/datasets/bbc.html </br>
+The raw text data is processed and transformed to Document Term Maxtrix.
+Make your prediction here http://www.tiendatngcs.com/topic_classifier .
+
